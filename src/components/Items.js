@@ -35,4 +35,5 @@ Items.defaultProps = {
   items: []
 };
 
+//export default Items;
 export default Items;
